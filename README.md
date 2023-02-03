@@ -13,6 +13,8 @@
 
 `cd` - change into your home directory
 
+`cp <file_name> <new_file_name>` - make a copy of the file `<file_name>` called `<new_file_name>`
+
 `mkdir <directory_name>` - make a directory called `<directory_name>`
 
 Also remember you can use the up arrow to see previous commands entered, and the tab key to do tab completion on commands you start typing.
