@@ -9,8 +9,13 @@
 
 `cd <directory_name>` - change directory into `<directory_name>`
 
+`cd ..` - change directory up one level
+
+`cd` - change into your home directory
+
 `mkdir <directory_name>` - make a directory called `<directory_name>`
 
+Also remember you can use the up arrow to see previous commands entered, and the tab key to do tab completion on commands you start typing.
 
 # how to run on linux
 
