@@ -4,8 +4,11 @@
 # some basic linux commands
 
 `ls` - show the contents of the current directory
+
 `pwd` - show the current path (i.e. where you are in the file structure)
+
 `cd <directory_name>` - change directory into `<directory_name>`
+
 `mkdir <directory_name>` - make a directory called `<directory_name>`
 
 
